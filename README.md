@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Aprilox/Aprilox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Bonjour !
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Passionné+de+technologie;Créateur+de+solutions;Toujours+en+apprentissage" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aprilox&color=22c55e&style=flat-square&label=visiteurs+total" alt="Profile views" />
+</p>
+
+</div>
+
+---
+
+## 🌱 À propos
+
+Je crée des petits projets pour me faciliter la vie au quotidien. Je ne suis pas développeur de métier, je me débrouille juste avec ce que j'apprends au fur et à mesure. Mes projets sont avant tout des solutions personnelles que je partage au cas où elles pourraient servir à d'autres.
