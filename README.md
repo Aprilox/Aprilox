@@ -15,3 +15,10 @@
 ## 🌱 À propos
 
 Je crée des petits projets pour me faciliter la vie au quotidien. Je ne suis pas développeur de métier, je me débrouille juste avec ce que j'apprends au fur et à mesure. Mes projets sont avant tout des solutions personnelles que je partage au cas où elles pourraient servir à d'autres.
+
+---
+
+## 📫 Me contacter
+N'hésitez pas à me contacter pour discuter de projets ou échanger sur la tech !
+
+- 📧 **Email** : [contact@aprilox.fr](mailto:contact@aprilox.fr)
